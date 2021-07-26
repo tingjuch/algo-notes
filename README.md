@@ -1,1 +1,1 @@
-# algo-notes
+# Algorithm Notes
